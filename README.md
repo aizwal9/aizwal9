@@ -8,9 +8,9 @@
 ![Aizwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aizwal9&show_icons=true&count_private=true&theme=radical)
 
 - 🌟 0 Total Stars
-- 💻 9133 Total Commits
+- 💻 8464 Total Commits
 - 🔧 17 Public Repositories
-- 🚀 5 Followers | 9 Following
+- 🚀 6 Followers | 9 Following
 
 ## 🛠️ Top Languages
 
@@ -18,8 +18,8 @@
 
 - Java
 - Python
-- Go
 - TypeScript
+- Go
 - JavaScript
 
 ## 🤝 Let's Connect!
@@ -27,4 +27,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aizwal9)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/aizwal9)
 
-<sub>Last updated: 2025-04-13 10:19:05 UTC</sub>
+<sub>Last updated: 2025-04-20 10:18:39 UTC</sub>
