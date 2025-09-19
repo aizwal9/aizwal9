@@ -17,8 +17,6 @@
 - 📍 Living in Bangalore,India
 - 📫 Reach me - **work.aman404@gmail.com**
 - 🌍 [Portfolio](https://aizwal9.work)
-- LinkedIn - [Aizwal9](https://www.linkedin.com/in/aizwal9)
-- X - [Aizwal9](https://twitter.com/aizwal9)
 
 
   <!-- snake contribution -->
