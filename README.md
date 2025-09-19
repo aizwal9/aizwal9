@@ -1,30 +1,29 @@
 
-# 👋 Hi there, I'm Aizwal ([@aizwal9](https://github.com/aizwal9))
+<picture>
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right" />
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aizwal9&color=blueviolet)
+- 👋 Hi, I’m @Aizwal9
+- 💻 Software Engineer
+- 🕸 Full-Stack Web Developer
+- ☕️ Inide Hacker
+- 👀 Learning AI Related
+- 📍 Living in Bangalore,India
+- 📫 Reach me - **work.aman404@gmail.com**
+- 🌍 [Portfolio](https://aizwal9.work)
+- LinkedIn - [Aizwal9](https://www.linkedin.com/in/aizwal9)
+- X - [Aizwal9](https://twitter.com/aizwal9)
 
-## 📊 GitHub Stats
 
-![Aizwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aizwal9&show_icons=true&count_private=true&theme=radical)
-
-- 🌟 0 Total Stars
-- 💻 14470 Total Commits
-- 🔧 30 Public Repositories
-- 🚀 6 Followers | 10 Following
-
-## 🛠️ Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aizwal9&layout=compact&theme=radical)
-
-- Go
-- Python
-- Java
-- TypeScript
-- JavaScript
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aizwal9)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/aizwal9)
-
-<sub>Last updated: 2025-09-14 10:16:02 UTC</sub>
+  <!-- snake contribution -->
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
+  </picture>
