@@ -14,7 +14,7 @@
 - ☕️ Indie Hacker  
 - 👀 Learning AI/ML  
 - 📍 Living in Bangalore, India  
-- 📫 Reach me: **work.aman404@gmail.com**  
+- 📫 Reach me: **jaiswalaman97@gmail.com**  
 - 🌍 [Portfolio](https://aizwal9.work)  
 
 ---
