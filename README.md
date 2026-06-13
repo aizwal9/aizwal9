@@ -1,14 +1,14 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=issues&hide_border=true"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=issues"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" align="right" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=aizwal9&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=issues" />
 </picture>
 
-- 👋 Hi, I’m Aizwal  
+- 👋 Hi, I'm Aizwal  
 - 💻 Software Engineer  
 - 🕸 Full-Stack Web Developer  
 - ☕️ Indie Hacker  
@@ -71,8 +71,10 @@
 #### AI/LLM (Learning)
 ![LangChain](https://img.shields.io/badge/Langchain-FF6F00?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-EE4C2C?style=flat&logo=LangGraph&logoColor=white)
+![Agents](https://img.shields.io/badge/Agents-1F72B8?style=flat&logo=openai&logoColor=white)
 ![Openai](https://img.shields.io/badge/Openai-F7931E?style=flat&logo=openai&logoColor=white)
 ![GoogleGemini](https://img.shields.io/badge/Gemini-F7931E?style=flat&logo=googlegemini&logoColor=white)
+![GoogleAI](https://img.shields.io/badge/Google_AI_SDK-4285F4?style=flat&logo=google&logoColor=white)
 ![milvus](https://img.shields.io/badge/Milvus-F7931E?style=flat&logo=milvus&logoColor=white)
 ![huggingface](https://img.shields.io/badge/Huggingface-F7931E?style=flat&logo=huggingface&logoColor=white)
 
