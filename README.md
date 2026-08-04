@@ -15,7 +15,7 @@
 - 👀 Learning AI/ML  
 - 📍 Living in Bangalore, India  
 - 📫 Reach me: **jaiswalaman97@gmail.com**  
-- 🌍 [Portfolio](https://aizwal9.work)  
+- 🌍 [Portfolio](https://aizwal9.dev)  
 
 ---
 
